@@ -1,5 +1,5 @@
 body {
-  
+  font: 16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #sidebar {
@@ -12,4 +12,5 @@ body {
 #content {
   width: 500px;
   padding: 20px;
+  margin-left: 140px;
 }
