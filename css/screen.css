@@ -12,7 +12,7 @@ a:hover {
 }
 
 #sidebar {
-  width: 100px;
+  width: 150px;
   float: left;
   padding: 20px;
   position: fixed;
@@ -21,11 +21,21 @@ a:hover {
 #sidebar .title a {
   text-decoration: none;
   color: #000;
+  font-weight: bold;
+}
+
+#sidebar .title a:hover {
+   color: red;   
+}
+
+#sidebar .title a.extra {
+  text-decoration: none;
+  color: blue;
 }
 
 #content {
   width: 500px;
   padding: 20px;
   position: relative;
-  left: 140px;
+  left: 200px;
 }
