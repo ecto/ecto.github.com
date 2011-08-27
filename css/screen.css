@@ -12,5 +12,6 @@ body {
 #content {
   width: 500px;
   padding: 20px;
-  margin-left: 140px;
+  position: relative;
+  left: 140px;
 }
