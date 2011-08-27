@@ -2,11 +2,25 @@ body {
   font: 16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 #sidebar {
   width: 100px;
   float: left;
   padding: 20px;
   position: fixed;
+}
+
+#sidebar .title a {
+  text-decoration: none;
+  color: #000;
 }
 
 #content {
