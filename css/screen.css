@@ -1,6 +1,5 @@
 body {
   font: 16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background: #fafecc;
 }
 
 a {
@@ -12,30 +11,30 @@ a:hover {
   text-decoration: underline;
 }
 
-#sidebar {
-  width: 150px;
-  float: left;
+#navigation {
+  width: 800px;
   padding: 20px;
   position: fixed;
+  margin: 0 auto;
 }
 
-#sidebar .title a {
+#nagivation .title a {
   text-decoration: none;
   color: #000;
   font-weight: bold;
 }
 
-#sidebar .title a:hover {
+#nagivation .title a:hover {
    color: red;   
 }
 
-#sidebar .title a.extra {
+#nagivation .title a.extra {
   text-decoration: none;
   color: blue;
 }
 
 #cam {
-  width: 100px;
+  width: 64px;
   clear: both;
 }
 
