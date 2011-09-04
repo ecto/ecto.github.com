@@ -1,5 +1,6 @@
 body {
   font: 16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background: #fafecc;
 }
 
 a {
@@ -35,6 +36,7 @@ a:hover {
 
 #cam {
   width: 100px;
+  clear: both;
 }
 
 #content {
