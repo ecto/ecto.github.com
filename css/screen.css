@@ -43,6 +43,9 @@ a:hover {
 #posts {
   list-style: none;
   margin: 0;
+}
+
+#posts li {
   padding: 15px 0;
 }
 
