@@ -33,6 +33,10 @@ a:hover {
   color: blue;
 }
 
+#cam {
+  width: 100px;
+}
+
 #content {
   width: 500px;
   padding: 20px;
