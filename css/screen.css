@@ -51,8 +51,8 @@ a:hover {
   color: #ccc;
 }
 
-#posts li:hover > #posts .date {
-  background: red;
+#posts li:hover .date {
+  color: #000;
 }
 
 #posts .title {
