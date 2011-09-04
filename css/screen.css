@@ -18,6 +18,7 @@ a:hover {
 }
 
 #navigation .title a {
+  font-size: 30px;
   text-decoration: none;
   color: #000;
   font-weight: bold;
@@ -27,7 +28,7 @@ a:hover {
    color: red;   
 }
 
-#navigation .title a.extra {
+#navigation .extra {
   text-decoration: none;
   color: blue;
 }
