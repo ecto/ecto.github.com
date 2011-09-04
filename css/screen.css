@@ -40,8 +40,10 @@ a:hover {
   margin: 0 auto;
 }
 
-#posts {
+#posts li {
   list-style: none;
+  margin: 0;
+  padding: 15px 0;
 }
 
 #posts .date {
