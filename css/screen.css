@@ -14,21 +14,20 @@ a:hover {
 #navigation {
   width: 800px;
   padding: 20px;
-  position: fixed;
   margin: 0 auto;
 }
 
-#nagivation .title a {
+#navigation .title a {
   text-decoration: none;
   color: #000;
   font-weight: bold;
 }
 
-#nagivation .title a:hover {
+#navigation .title a:hover {
    color: red;   
 }
 
-#nagivation .title a.extra {
+#navigation .title a.extra {
   text-decoration: none;
   color: blue;
 }
