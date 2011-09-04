@@ -24,10 +24,6 @@ a:hover {
   font-weight: bold;
 }
 
-#navigation .title a:hover {
-   color: red;   
-}
-
 #navigation .extra {
   text-decoration: none;
   color: blue;
@@ -42,4 +38,16 @@ a:hover {
   width: 800px;
   padding: 20px;
   margin: 0 auto;
+}
+
+#posts {
+  list-style: none;
+}
+
+#posts .date {
+  float: right;
+}
+
+#posts .title {
+  font-size: 28px;
 }
