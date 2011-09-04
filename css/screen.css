@@ -31,8 +31,7 @@ a:hover {
 }
 
 #cam {
-  width: 64px;
-  clear: both;
+  width: 100%;
 }
 
 #content {
