@@ -39,8 +39,7 @@ a:hover {
 }
 
 #content {
-  width: 500px;
+  width: 800px;
   padding: 20px;
-  position: relative;
-  left: 200px;
+  margin: 0 auto;
 }
